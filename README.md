@@ -49,7 +49,7 @@ pip install pillow numpy
 
 
 
-✨ Usage: ✨
+## ✨ Usage: ✨
 
     python3 hashish.py <hash_algorithm> <hex_prefix> <original_image> <output_image>
 
@@ -64,11 +64,11 @@ pip install pillow numpy
 🎉 Example:
     python3 hashish.py sha256 0x24 original.jpg altered.jpg
 
-Contributing
+## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-Acknowledgments
+## Acknowledgments
 
 Made with ❤️ by j1md3!
 
